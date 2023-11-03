@@ -61,7 +61,7 @@ nav a{
     flex: 30%;
     max-width: 30%;
     background-color: #c9d3df;
-    border: 3px solid black;
+    border: 3px solid #333;
     border-radius: 2rem;
     text-align: center;
     margin: 0.5rem;
