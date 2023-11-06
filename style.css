@@ -58,8 +58,8 @@ nav a{
 }
 
 .card{
-    flex: 30%;
-    max-width: 30%;
+    flex: 25%;
+    max-width: 25%;
     background-color: #c9d3df;
     border: 3px solid #333;
     border-radius: 2rem;
@@ -79,16 +79,16 @@ img{
 /* for tablets */
 @media screen and (max-width: 768px){
     .card{
-        flex: 45%;
-        max-width: 45%;
+        flex: 40%;
+        max-width: 40%;
     }
 }
 
 /* for mobile devices */
 @media screen and (max-width: 481px){
     .card{
-        flex: 90%;
-        max-width: 90%;
+        flex: 60%;
+        max-width: 60%;
         margin-top: 25px;
     }
     nav{
